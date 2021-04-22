@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "year": "2014",
+        "rating": "10"
+    },
+    {
+        "id": "2",
+        "title": "Godzilla vs Kong",
+        "director": "Adam Wingard",
+        "year": "2021",
+        "rating": "10"
+    }
+]
